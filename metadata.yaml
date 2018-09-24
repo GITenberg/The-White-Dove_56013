@@ -1,0 +1,31 @@
+_repo: The-White-Dove_56013
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Locke, William John
+    aliases:
+    - Locke, William J. (William John)
+    - Locke, W. J. (William John)
+    birthdate: 1863
+    deathdate: 1930
+    gutenberg_agent_id: '1324'
+    url: http://www.gutenberg.org/2009/agents/1324
+    wikipedia: http://en.wikipedia.org/wiki/William_John_Locke
+description: ''
+gutenberg_issued: '2017-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56013'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adultery -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The White Dove
+url: http://www.gutenberg.org/ebooks/56013
